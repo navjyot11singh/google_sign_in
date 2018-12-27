@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "104030769192",
+    "firebase_url": "https://myappie-e8ff9.firebaseio.com",
+    "project_id": "myappie-e8ff9",
+    "storage_bucket": "myappie-e8ff9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104030769192:android:78f187c3d508f597",
+        "android_client_info": {
+          "package_name": "androidsingh.navjyotsingh.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104030769192-ho32elphvnhph02scpdbi2b4pt4oskas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidsingh.navjyotsingh.firebaselogin",
+            "certificate_hash": "18df380f506c3057de548130d7d06105a843d95d"
+          }
+        },
+        {
+          "client_id": "104030769192-76gdvbf7pfda2keen5te7t70jesks7p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzWeZkacRlYfhB8WEe2bUz8JmIKIDg2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104030769192-76gdvbf7pfda2keen5te7t70jesks7p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104030769192:android:4165cecc31555f07",
+        "android_client_info": {
+          "package_name": "androidsingh.navjyotsingh.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104030769192-u30gsqg8gqfgs94k92ipe6gkimf7jhi3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidsingh.navjyotsingh.googlelogin",
+            "certificate_hash": "18df380f506c3057de548130d7d06105a843d95d"
+          }
+        },
+        {
+          "client_id": "104030769192-76gdvbf7pfda2keen5te7t70jesks7p7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUzWeZkacRlYfhB8WEe2bUz8JmIKIDg2Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104030769192-76gdvbf7pfda2keen5te7t70jesks7p7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
